@@ -19,3 +19,4 @@ It efficiently handles different types of input, such as files or standard input
 
 # Why This Project? 💡
 Perfect for improving your C skills and deepening your understanding of low-level I/O operations!
+
